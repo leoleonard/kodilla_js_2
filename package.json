@@ -1,0 +1,26 @@
+{
+  "name": "kodilla_js_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoleonard/kodilla_js_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoleonard/kodilla_js_2/issues"
+  },
+  "homepage": "https://github.com/leoleonard/kodilla_js_2#readme",
+  "dependencies": {
+    "npm": "^5.5.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
