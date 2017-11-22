@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:js": "npm jshint --files js/*.js",
+    "test": "npm run test:js",
+    "test:js": "jshint js/*.js",
+    "build": "npm run build:jshint",
   },
   "repository": {
     "type": "git",
