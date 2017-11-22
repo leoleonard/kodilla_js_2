@@ -7,7 +7,7 @@
     "test:js": "npm jshint --files js/*.js",
     "test": "npm run test:js",
     "test:js": "jshint js/*.js",
-    "build": "npm run build:jshint",
+    "build": "npm run build:jshint"
   },
   "repository": {
     "type": "git",
